@@ -27,12 +27,13 @@
 | Project | Tools Used | GitHub Link |
 |--------|------------|-------------|
 | 📈 Credit Card Churn Analysis | Power BI, Excel | [View Repository](https://github.com/YashDhamke/credit-card-churn-analysis) |
+
 ---
 
 
 ### 📞 Contact Me
 
-- 📧 Email: yashdhamke@example.com  
+- 📧 Email: yashdhamke1093@gmail.com  
 - 🔗 [LinkedIn](www.linkedin.com/in/yash-dhamke)  
 
 ---
