@@ -34,6 +34,6 @@
 ### 📞 Contact Me
 
 - 📧 Email: yashdhamke1093@gmail.com  
-- 🔗 [LinkedIn](www.linkedin.com/in/yash-dhamke)  
+- 🔗 [LinkedIn] (www.linkedin.com/in/yash-dhamke)  
 
 ---
