@@ -29,17 +29,10 @@
 | 📈 Credit Card Churn Analysis | Power BI, Excel | [View Repository](https://github.com/YashDhamke/credit-card-churn-analysis) |
 ---
 
-### 🎖️ Certifications
-
-- 🏅 [Power BI Masterclass](#) – Udemy  
-- 🏅 [Excel for Business](#) – Coursera  
-- 🏅 [SQL Basics](#) – HackerRank
-
----
 
 ### 📞 Contact Me
 
 - 📧 Email: yashdhamke@example.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/YashDhamke)  
+- 🔗 [LinkedIn](www.linkedin.com/in/yash-dhamke)  
 
 ---
