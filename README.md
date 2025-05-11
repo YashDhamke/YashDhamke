@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yash Dhamke! 👋</h1>
+<p align="center">📊 Aspiring Business Analyst | Data Enthusiast | Research and Financial Analysis</p>
 
-<!--
-**YashDhamke/YashDhamke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Focused on breaking into **Data & Business Analytics**
+- 🧠 Currently upskilling in **Python**, **SQL**, **Power BI**, and **Excel**
+- 🔍 Passionate about turning raw data into actionable insights
+- 💼 Open to roles in **Data Analytics**, **Business Analysis**, and **Research Analysis**
+- 📚 Currently learning **Advanced Excel**, **Power Query**, and **Data Storytelling**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages & Libraries:** Python, Pandas, NumPy, SQL  
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Tools:** Excel, Jupyter Notebook, PowerPoint  
+- **Other Skills:** Data Cleaning, Dashboarding, KPI Reporting
+
+---
+
+### 🚀 Projects
+
+| Project | Tools Used | GitHub Link |
+|--------|------------|-------------|
+| 📈 Credit Card Churn Analysis | Power BI, Excel | [View Repository](https://github.com/YashDhamke/credit-card-churn-analysis) |
+---
+
+### 🎖️ Certifications
+
+- 🏅 [Power BI Masterclass](#) – Udemy  
+- 🏅 [Excel for Business](#) – Coursera  
+- 🏅 [SQL Basics](#) – HackerRank
+
+---
+
+### 📞 Contact Me
+
+- 📧 Email: yashdhamke@example.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/YashDhamke)  
+
+---
