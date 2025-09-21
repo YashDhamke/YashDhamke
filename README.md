@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Yash Dhamke! 👋</h1>
-<p align="center">📊 Aspiring Business Analyst | Data Enthusiast | Research and Financial Analysis</p>
+<p align="center">📊  Business-Data Analyst | Excel | Power BI | SQL | Python | </p>
 
 ---
 
 ### 🌟 About Me
 
-- 🎯 Focused on breaking into **Data & Business Analytics**
+- 🎯 Passionate About **Data & Business Analytics**
 - 🧠 Currently upskilling in **Python**, **SQL**, **Power BI**, and **Excel**
 - 🔍 Passionate about turning raw data into actionable insights
 - 💼 Open to roles in **Data Analytics**, **Business Analysis**, and **Research Analysis**
@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack & Tools
 
 - **Languages & Libraries:** Python, Pandas, NumPy, SQL  
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Excel
 - **Tools:** Excel, Jupyter Notebook, PowerPoint  
 - **Other Skills:** Data Cleaning, Dashboarding, KPI Reporting
 
